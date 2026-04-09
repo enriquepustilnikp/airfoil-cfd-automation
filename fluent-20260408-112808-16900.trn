@@ -1,0 +1,86 @@
+Auto-Transcript Start Time:  11:28:08, 08 Apr 2026 Mountain Daylight Time 
+Current Directory: "C:\Users\enriq\Documents\airfoil-cfd-automation"
+Information: The server has started and is running.
+
+              Welcome to ANSYS Fluent 2026 R1
+
+              Copyright 2026 Synopsys, Inc. and ANSYS, Inc. All rights reserved.
+              Unauthorized use, distribution or duplication is prohibited.
+              This product is subject to U.S. laws governing export and re-export.
+              For full Legal Notice, see documentation.
+
+Build Time: Feb  2 2026 16:27:16 EST  Build Id: 10262  
+ 
+Connected License Server List:	<Non FlexNet Publisher License Server (FNPLS)>
+
+*********************************************
+Info: Your license enables 4-way parallel execution.
+For faster simulations, please start the application with the appropriate parallel options.
+*********************************************
+
+
+     --------------------------------------------------------------
+     This is a student version of ANSYS FLUENT. Usage of this product
+     license is limited to the terms and conditions specified in your ANSYS
+     license form, additional terms section.
+     --------------------------------------------------------------
+Host spawning Node 0 on machine "Enrique_Laptop" (win64).
+Host waiting for connection from Node 0 at 127.0.0.1:63971 
+
+Node 0 connecting to the Host ... connection established.
+
+-----------------------------------------------------------------------------------
+ID    Hostname        Core  O.S.         PID    CPU Model Name                    
+-----------------------------------------------------------------------------------
+n0    Enrique_Laptop  1/24  Windows-x64  21952  Intel(R) Core(TM) i7-14650HX      
+host  Enrique_Laptop        Windows-x64  42676  Intel(R) Core(TM) i7-14650HX      
+
+MPI Option Selected: intel
+-----------------------------------------------------------------------------------
+
+Cleanup script file is C:\\Users\\enriq\\Documents\\airfoil-cfd-automation\\cleanup-fluent-Enrique_Laptop-42676.bat
+Note: Rank = 0: Process affinity not being set (6).
+
+Graphics driver currently in use: dx11
+
+
+ +------------------------------------------------------------------+
+ |                    ANSYS Product Improvement                     |
+ |                                                                  |
+ |   ANSYS Product Improvement Program helps improve ANSYS          |
+ |   products. Participating in this program is like filling out a  |
+ |   survey. Without interrupting your work, the software reports   |
+ |   anonymous usage information such as errors, machine and        |
+ |   solver statistics, features used, etc. to ANSYS. We never      |
+ |   use the data to identify or contact you.                       |
+ |   The data does NOT contain:                                     |
+ |   - Any personally identifiable information including names,     |
+ |     IP addresses, file names, part names, etc.                   |
+ |   - Any information about your geometry or design specific       |
+ |     inputs.                                                      |
+ |   You can stop participation at any time. To change your         |
+ |   selection go to Help >> ANSYS Product Improvement Program      |
+ |   in the GUI.                                                    |
+ |   For more information about the ANSYS Privacy Policy, please    |
+ |   check: http://www.ansys.com/privacy                            |
+ |                                                                  |
+ +------------------------------------------------------------------+
+
+Posting ANSYS Product Improvement Program startup data
+Done.
+>>> 
+Error: File "C:\Users\enriq\OneDrive - UCB-O365\ANSYS\ANSYS Projects\Airfoil\Airfoil Simulation_files\dp0\FFF\Fluent\FFF-2.cas.h5" not found!
+Error Object: #f
+
+Error: File "C:\Users\enriq\OneDrive - UCB-O365\ANSYS\ANSYS Projects\Airfoil\Airfoil Simulation_files\dp0\FFF\Fluent\FFF-2.cas.h5" not found!
+Error Object: #f
+
+Posting ANSYS Product Improvement Program performance data 
+Done.
+Shutting down Server...
+Services Shutdown...Done.
+Server Shutdown...Done.
+Queue Cleared...Done.
+Shutdown Complete.
+Auto-Transcript Stop Time:  11:32:52, 08 Apr 2026 Mountain Daylight Time 
+Total Transcript Time: 4 Minute 44 Second.
